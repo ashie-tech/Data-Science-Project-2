@@ -1,4 +1,4 @@
-# Data-Science-Project-2
+# Test.csv Data Cleaning and EDA Pipeline
 
 This project demonstrates a step-by-step approach to cleaning and preparing the dataset test.csv for further analysis or modeling. The cleaning process includes handling missing values, encoding categorical variables, and exploratory data analysis (EDA) visualizations.
 
